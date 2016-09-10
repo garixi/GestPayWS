@@ -1,5 +1,5 @@
 {
-  "name": "endelwar/gestpayws",
+  "name": "garixi/gestpayws",
   "type": "library",
   "description": "PHP implementation of GestPay (Banca Sella) Web Services",
   "keywords": [
@@ -12,6 +12,10 @@
     {
       "name": "Manuel Dalla Lana",
       "email": "endelwar@aregar.it"
+    },
+    {
+      "name": "Giovanni Arixi",
+      "email": "garixi@cuoriilabs.com"
     }
   ],
   "support": {
